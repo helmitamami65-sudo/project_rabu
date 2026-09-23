@@ -11,7 +11,7 @@
 
     <header class="navbar">
         <div class="logo">
-            <span class="dot"></span>Kyuuin<span class="dot-blue">.</span>
+            <span class="dot"></span>Helmy<span class="dot-blue">.</span>
         </div>
         <ul class="nav-links">
             <li><a href="#tentang">Tentang</a></li>
@@ -31,7 +31,7 @@
                 <span class="badge-tag">Siswa SMKN 1 Bantul</span>
             </div>
             
-            <h1>Halo, Saya <span class="highlight">Kyuuin</span></h1>
+            <h1>Halo, Saya <span class="highlight">Helmy</span></h1>
             <p>
                 Saya adalah seorang pemula yang sedang mendalami pemrograman web, dengan fokus pada pembuatan tampilan web menggunakan HTML, CSS, dan framework Laravel.
                 Saya tertarik untuk membuat web yang responsif, bersih, dan nyaman untuk para pengguna.
@@ -149,7 +149,7 @@
 
     
     <footer class="area-footer">
-        <p>&copy; 2026 Kyuuin. Siswa SMKN 1 Bantul. Dibuat dengan HTML &amp; CSS.</p>
+        <p>&copy; 2026 Helmy. Siswa SMKN 1 Bantul. Dibuat dengan HTML &amp; CSS.</p>
     </footer>
 
 </body>
